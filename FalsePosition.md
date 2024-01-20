@@ -1,0 +1,1 @@
+The false position method is an enhancement of the bisection method where a chord connects the evaluations of the function at the end points and a mid point is found at the zero crossing of the chord.
