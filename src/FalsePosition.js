@@ -1,5 +1,5 @@
 // The falsePosition method finds a value x_root that represents an approximation of a root of f(x)
-// bracketed by a range of initial values for x.  IT is an enhancement of the bisection method.
+// bracketed by a range of initial values for x.  It is an enhancement of the bisection method.
 function falsePosition(func, minX, maxX, maxError, maxIterations) {
   // Check to ensure the signs of f(x) flip between minX and maxX
   // If they do not then inappropriate bracket points have been
